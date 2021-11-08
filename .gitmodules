@@ -1,0 +1,12 @@
+[submodule "chess-system-estudojava"]
+	path = chess-system-estudojava
+	url = git@github.com:NicolasTito/chess-system-estudojava.git
+[submodule "course-springboot-2-java-11"]
+	path = course-springboot-2-java-11
+	url = git@github.com:NicolasTito/course-springboot-2-java-11.git
+[submodule "cursoMc-SpringBoot"]
+	path = cursoMc-SpringBoot
+	url = git@github.com:NicolasTito/cursoMc-SpringBoot.git
+[submodule "workshop-springboot-app"]
+	path = workshop-springboot-app
+	url = git@github.com:NicolasTito/workshop-springboot-app.git
